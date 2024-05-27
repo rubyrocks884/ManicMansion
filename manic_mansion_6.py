@@ -11,7 +11,7 @@ Spillebrett = pygame.display.set_mode([brettbredde, bretthøyde])
 pygame.display.set_caption("Manic Mansion")
 font = pygame.font.SysFont("Arial", 18)
 
-sidelengde = 30
+sidelengde = 35
 menneskefarge = (197, 1, 117)
 sauefarge = (255,255,255)
 spøkelsefarge = (159,25,254)
