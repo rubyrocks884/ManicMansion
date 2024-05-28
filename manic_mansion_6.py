@@ -12,7 +12,7 @@ pygame.display.set_caption("Manic Mansion")
 litenFont = pygame.font.SysFont("Arial", 18)
 storFont = pygame.font.SysFont("Arial", 50)
 
-sidelengde = 30
+sidelengde = 35
 menneskefarge = (197, 1, 117)
 sauefarge = (255,255,255)
 spøkelsefarge = (159,25,254)
